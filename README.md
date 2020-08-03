@@ -2,6 +2,8 @@
 
 An espanso package for quickly sharing Wi-Fi passwords and connection details on macOS using [sharewifi](https://github.com/bradyjoslin/sharewifi). Generates QR codes that auto-configure iOS and Android devices. [Espanso](https://espanso.org/) is a free cross-platform text expander written in Rust.
 
+![sharewifi](./images/sharewifi.gif)
+
 For more information about espanso packages, read the [documentation](https://espanso.org/docs/).
 
 ## Usage
