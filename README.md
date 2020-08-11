@@ -34,7 +34,12 @@ espanso install sharewifi https://github.com/bradyjoslin/espanso-package-sharewi
 
 ## Dependencies
 
-Requires [sharewifi](https://github.com/bradyjoslin/sharewifi).
+Requires the [sharewifi CLI](https://github.com/bradyjoslin/sharewifi) to be installed:
+
+```
+brew tap bradyjoslin/sharewifi
+brew install sharewifi
+```
 
 ## Package Details
 
